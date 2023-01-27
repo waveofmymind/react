@@ -1,0 +1,10 @@
+
+Hjavascript:S1128"%Remove this unused import of 'Prism'.(¥öÒ8á£í—ß0
+[javascript:S1128"3Remove this unused import of 'codeSyntaxHighlight'.(»¼æ™üÿÿÿÿ8á£í—ß0
+hjavascript:S3863"E'@toast-ui/editor-plugin-code-syntax-highlight' import is duplicated.(ğèæ»8øÊí—ß0
+\javascript:S1481 "ARemove the declaration of the unused 'notificationDate' variable.(Ò¶
+Yjavascript:S1854 ">Remove this useless assignment to variable "notificationDate".(Ò¶
+gjavascript:S1481&"FRemove the declaration of the unused 'onNotificationHandler' variable.(–©§ßûÿÿÿÿ
+djavascript:S1854&"CRemove this useless assignment to variable "onNotificationHandler".(–©§ßûÿÿÿÿ
+Bjavascript:S1481L"&Remove unused function 'onDateChange'.(©ğú
+:javascript:S125O"Remove this commented out code.(–±Ù

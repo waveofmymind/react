@@ -1,0 +1,3 @@
+
+Ijavascript:S1128"(Remove this unused import of 'Calendar'.(ëÿ´ìşÿÿÿÿ
+¢javascript:S6478"€Do not define components during render. React will see a new component type on every render and destroy the entire subtreeâ€™s DOM nodes and state. Instead, move this component definition out of the parent component â€œReviewFormâ€ and pass data as props.(Ë¸Ğ®ûÿÿÿÿ

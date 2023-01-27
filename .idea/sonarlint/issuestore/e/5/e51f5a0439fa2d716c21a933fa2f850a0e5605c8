@@ -1,0 +1,8 @@
+
+Ujavascript:S1481	"9Remove the declaration of the unused 'onChange' variable.(÷’òÕ
+Rjavascript:S1854	"6Remove this useless assignment to variable "onChange".(÷’òÕ
+Vjavascript:S1854"5Remove this useless assignment to variable "onClick".(®˜Ûãúÿÿÿÿ
+\javascript:S1481";Remove the declaration of the unused 'onKeyPress' variable.(ò£ıÚüÿÿÿÿ
+Yjavascript:S1854"8Remove this useless assignment to variable "onKeyPress".(ò£ıÚüÿÿÿÿ
+Wjavascript:S1481"6Remove the declaration of the unused 'check' variable.(ÿËºşıÿÿÿÿ
+Tjavascript:S1854"3Remove this useless assignment to variable "check".(ÿËºşıÿÿÿÿ

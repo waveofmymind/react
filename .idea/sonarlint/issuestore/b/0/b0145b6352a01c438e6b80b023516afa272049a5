@@ -1,0 +1,16 @@
+
+Ejavascript:S1128"*Remove this unused import of 'DatePicker'.(¯ó
+Gjavascript:S1128"&Remove this unused import of 'moment'.(¬ßÖ²úÿÿÿÿ
+Ijavascript:S3863	"('react-router-dom' import is duplicated.(†¥é¯úÿÿÿÿ
+Jjavascript:S1128	")Remove this unused import of 'useParams'.(†¥é¯úÿÿÿÿ
+bjavascript:S1481 "ARemove the declaration of the unused 'notificationDate' variable.(Ž¥’Èúÿÿÿÿ
+_javascript:S1854 ">Remove this useless assignment to variable "notificationDate".(Ž¥’Èúÿÿÿÿ
+Yjavascript:S1481E"=Remove the declaration of the unused 'onDateChange' variable.(êŸÝº
+Vjavascript:S1854E":Remove this useless assignment to variable "onDateChange".(êŸÝº
+Wjavascript:S1125H"6Refactor the code to avoid using this boolean literal.(ÇñðÄøÿÿÿÿ
+Rjavascript:S1481O"7Remove the declaration of the unused 'viewer' variable.(Šà†M
+Ojavascript:S1854O"4Remove this useless assignment to variable "viewer".(Šà†M
+`javascript:S1481W"=Remove the declaration of the unused 'onStepChange' variable.(ÔÙ÷â8¾óè˜ß0
+]javascript:S1854W":Remove this useless assignment to variable "onStepChange".(ÔÙ÷â8¾óè˜ß0
+Ljavascript:S6477‰"*Missing "key" prop for element in iterator(»ßÉ·ÿÿÿÿÿ
+Gjavascript:S6477œ"*Missing "key" prop for element in iterator(ë¶öÏ
